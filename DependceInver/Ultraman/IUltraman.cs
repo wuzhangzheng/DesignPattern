@@ -1,4 +1,4 @@
-﻿namespace DependceInver;
+﻿namespace DependceInver.Ultraman;
 
 public interface IUltraman
 {
