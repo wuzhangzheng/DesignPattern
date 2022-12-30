@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternDemo.API", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependceInver", "DependceInver\DependceInver.csproj", "{0EB0AD33-14A6-4174-B1EC-9DB41271EFE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrinciple", "OpenClosePrinciple\OpenClosePrinciple.csproj", "{5F0A4A5E-CB8F-45D0-968F-3867A3794735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0EB0AD33-14A6-4174-B1EC-9DB41271EFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EB0AD33-14A6-4174-B1EC-9DB41271EFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EB0AD33-14A6-4174-B1EC-9DB41271EFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0A4A5E-CB8F-45D0-968F-3867A3794735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0A4A5E-CB8F-45D0-968F-3867A3794735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0A4A5E-CB8F-45D0-968F-3867A3794735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0A4A5E-CB8F-45D0-968F-3867A3794735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

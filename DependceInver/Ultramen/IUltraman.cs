@@ -4,5 +4,5 @@ public interface IUltraman
 {
     string Name { get; set; }
     int Age { get; set; }
-    void SeeUltramanRun();
+    void Attack();
 }
