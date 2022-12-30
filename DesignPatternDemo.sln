@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependceInver", "DependceIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrinciple", "OpenClosePrinciple\OpenClosePrinciple.csproj", "{5F0A4A5E-CB8F-45D0-968F-3867A3794735}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrincipleTest", "OpenClosePrincipleTest\OpenClosePrincipleTest.csproj", "{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5F0A4A5E-CB8F-45D0-968F-3867A3794735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F0A4A5E-CB8F-45D0-968F-3867A3794735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F0A4A5E-CB8F-45D0-968F-3867A3794735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

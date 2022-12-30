@@ -18,7 +18,7 @@ using OpenClosePrinciple.Interface;
 var ultraman = new TaroFactroy().CreateUltraman();
 if (ultraman is Ace)
 {
-    System.Console.WriteLine("我是艾斯");
+    System.Console.WriteLine("我是艾斯");         
 }
 else
 {

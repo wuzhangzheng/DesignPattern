@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/OpenClosePrinciple/bin/Debug/net7.0/OpenClosePrinciple.dll",
+            "program": "${workspaceFolder}/OpenClosePrincipleTest/bin/Debug/net7.0/OpenClosePrincipleTest.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/OpenClosePrinciple",
+            "cwd": "${workspaceFolder}/OpenClosePrincipleTest",
             "console": "internalConsole",
             "stopAtEntry": false
         },
