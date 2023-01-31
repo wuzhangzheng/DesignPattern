@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrinciple", "OpenC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrincipleTest", "OpenClosePrincipleTest\OpenClosePrincipleTest.csproj", "{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleForm", "SingleForm\SingleForm.csproj", "{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB6E6FD2-1E58-4DB7-8864-92F5383CC5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
