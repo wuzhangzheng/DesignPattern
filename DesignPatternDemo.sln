@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrincipleTest", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleForm", "SingleForm\SingleForm.csproj", "{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{1DA845E3-D6E6-4CAF-ABEA-D62C3501ADB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryForm", "FactoryForm\FactoryForm.csproj", "{C2015C76-40C8-438E-8543-4DE4109AE93F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCBB954F-2A7D-4ABA-BA78-7D81198F1743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA845E3-D6E6-4CAF-ABEA-D62C3501ADB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA845E3-D6E6-4CAF-ABEA-D62C3501ADB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA845E3-D6E6-4CAF-ABEA-D62C3501ADB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA845E3-D6E6-4CAF-ABEA-D62C3501ADB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2015C76-40C8-438E-8543-4DE4109AE93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2015C76-40C8-438E-8543-4DE4109AE93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2015C76-40C8-438E-8543-4DE4109AE93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2015C76-40C8-438E-8543-4DE4109AE93F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
